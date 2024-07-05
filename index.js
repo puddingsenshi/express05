@@ -4,6 +4,11 @@
 // 使用陣列 find()
 // 介紹: redirect()
 
+//+ git語法
+// 全數加入: git add . 
+// 轉寫文字: git commit -m ____
+// git branch -M master main
+
 
 // <執行>
 // 引入express模組
